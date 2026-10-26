@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos temporarios do Python
+__pycache__/
+*.py[cod]
+
+# Chave secreta do laboratorio
+chave.key
+
+# Artefatos gerados durante os testes
+amostras/arquivo_recuperado.txt
+amostras/arquivo_teste.txt.encrypted
+
+# Outros artefatos de teste
+amostras/arquivo_recuperado_teste.txt
+amostras/arquivo_teste.txt.encrypted.backup
+
+# Arquivos gerados durante a simulacao
+amostras/*.encrypted
+amostras/arquivo_recuperado*.txt

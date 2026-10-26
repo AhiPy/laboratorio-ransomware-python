@@ -1,0 +1,2 @@
+Arquivo ficticio para o laboratorio DIO.
+Este conteudo sera usado para testar a recuperacao dos dados.

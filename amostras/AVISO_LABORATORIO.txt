@@ -1,0 +1,8 @@
+LABORATORIO EDUCACIONAL - SIMULACAO DE RANSOMWARE
+
+Este arquivo faz parte de um exercicio controlado de ciberseguranca.
+
+Os arquivos utilizados neste laboratorio foram mantidos para permitir
+a verificacao e a recuperacao dos dados.
+
+Esta mensagem e ficticia. Nenhum pagamento e solicitado.
